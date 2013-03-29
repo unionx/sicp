@@ -1,0 +1,9 @@
+#+STARTUP: showall
+
+* SICP的习题答案集合
+
+我使用Guile作为Scheme编译器
+
+其它的SICP习题答案集合：
+
+- https://github.com/huangz1990/SICP-answers
